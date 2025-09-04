@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/809749323545237803/1e24db74b3894ee9bb13fefc06b915a5/artifacts
+end_time: 1756978044513
+entry_point_name: ''
+experiment_id: '809749323545237803'
+lifecycle_stage: active
+run_id: 1e24db74b3894ee9bb13fefc06b915a5
+run_name: victorious-bug-14
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756978028301
+status: 3
+tags: []
+user_id: pc

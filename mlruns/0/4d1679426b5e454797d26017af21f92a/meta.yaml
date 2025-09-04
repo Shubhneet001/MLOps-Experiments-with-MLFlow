@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/4d1679426b5e454797d26017af21f92a/artifacts
+end_time: 1756974850447
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 4d1679426b5e454797d26017af21f92a
+run_name: melodic-shoat-660
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756974849166
+status: 3
+tags: []
+user_id: pc
