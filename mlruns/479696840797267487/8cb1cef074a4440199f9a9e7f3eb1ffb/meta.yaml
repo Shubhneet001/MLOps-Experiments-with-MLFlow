@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/pc/Documents/Coding/Python/MLOps/MLOps-Experiments-with-MLFlow/mlruns/479696840797267487/8cb1cef074a4440199f9a9e7f3eb1ffb/artifacts
+end_time: 1756986117588
+entry_point_name: ''
+experiment_id: '479696840797267487'
+lifecycle_stage: active
+run_id: 8cb1cef074a4440199f9a9e7f3eb1ffb
+run_name: dashing-tern-980
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756986117455
+status: 3
+tags: []
+user_id: pc

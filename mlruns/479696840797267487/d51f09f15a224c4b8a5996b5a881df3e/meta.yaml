@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/pc/Documents/Coding/Python/MLOps/MLOps-Experiments-with-MLFlow/mlruns/479696840797267487/d51f09f15a224c4b8a5996b5a881df3e/artifacts
+end_time: 1756986118100
+entry_point_name: ''
+experiment_id: '479696840797267487'
+lifecycle_stage: active
+run_id: d51f09f15a224c4b8a5996b5a881df3e
+run_name: capricious-skink-610
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756986117968
+status: 3
+tags: []
+user_id: pc

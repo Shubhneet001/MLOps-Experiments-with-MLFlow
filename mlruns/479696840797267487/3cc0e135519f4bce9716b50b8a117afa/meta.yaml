@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/pc/Documents/Coding/Python/MLOps/MLOps-Experiments-with-MLFlow/mlruns/479696840797267487/3cc0e135519f4bce9716b50b8a117afa/artifacts
+end_time: 1756986117433
+entry_point_name: ''
+experiment_id: '479696840797267487'
+lifecycle_stage: active
+run_id: 3cc0e135519f4bce9716b50b8a117afa
+run_name: puzzled-conch-191
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756986117285
+status: 3
+tags: []
+user_id: pc

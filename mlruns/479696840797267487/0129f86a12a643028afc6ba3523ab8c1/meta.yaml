@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/pc/Documents/Coding/Python/MLOps/MLOps-Experiments-with-MLFlow/mlruns/479696840797267487/0129f86a12a643028afc6ba3523ab8c1/artifacts
+end_time: 1756986117261
+entry_point_name: ''
+experiment_id: '479696840797267487'
+lifecycle_stage: active
+run_id: 0129f86a12a643028afc6ba3523ab8c1
+run_name: luxuriant-eel-352
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756986117131
+status: 3
+tags: []
+user_id: pc

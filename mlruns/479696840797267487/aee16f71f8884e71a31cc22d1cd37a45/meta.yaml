@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/pc/Documents/Coding/Python/MLOps/MLOps-Experiments-with-MLFlow/mlruns/479696840797267487/aee16f71f8884e71a31cc22d1cd37a45/artifacts
+end_time: 1756986116959
+entry_point_name: ''
+experiment_id: '479696840797267487'
+lifecycle_stage: active
+run_id: aee16f71f8884e71a31cc22d1cd37a45
+run_name: mercurial-skunk-680
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756986116828
+status: 3
+tags: []
+user_id: pc

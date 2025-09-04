@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/pc/Documents/Coding/Python/MLOps/MLOps-Experiments-with-MLFlow/mlruns/479696840797267487/a903f4afc2544a149eacb2cd9017c2f6/artifacts
+end_time: 1756986116804
+entry_point_name: ''
+experiment_id: '479696840797267487'
+lifecycle_stage: active
+run_id: a903f4afc2544a149eacb2cd9017c2f6
+run_name: fortunate-croc-142
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756986116674
+status: 3
+tags: []
+user_id: pc

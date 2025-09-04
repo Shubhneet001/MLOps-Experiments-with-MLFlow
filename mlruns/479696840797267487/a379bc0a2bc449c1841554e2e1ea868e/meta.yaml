@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/pc/Documents/Coding/Python/MLOps/MLOps-Experiments-with-MLFlow/mlruns/479696840797267487/a379bc0a2bc449c1841554e2e1ea868e/artifacts
+end_time: 1756986129867
+entry_point_name: ''
+experiment_id: '479696840797267487'
+lifecycle_stage: active
+run_id: a379bc0a2bc449c1841554e2e1ea868e
+run_name: trusting-hog-927
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756986102051
+status: 3
+tags: []
+user_id: pc

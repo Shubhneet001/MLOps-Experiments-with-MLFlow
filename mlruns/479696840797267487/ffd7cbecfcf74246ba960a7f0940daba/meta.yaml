@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/pc/Documents/Coding/Python/MLOps/MLOps-Experiments-with-MLFlow/mlruns/479696840797267487/ffd7cbecfcf74246ba960a7f0940daba/artifacts
+end_time: 1756986117940
+entry_point_name: ''
+experiment_id: '479696840797267487'
+lifecycle_stage: active
+run_id: ffd7cbecfcf74246ba960a7f0940daba
+run_name: magnificent-lamb-908
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756986117783
+status: 3
+tags: []
+user_id: pc
